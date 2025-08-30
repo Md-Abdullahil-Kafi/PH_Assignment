@@ -5,7 +5,7 @@ function resultReport( marks ) {
         let pass = 0;
         let fail = 0;
         for(const num of marks){
-            if(num <= 40 ){
+            if(num < 40 ){
                 fail = fail+1;
                 finalScore = finalScore + num;
             }
@@ -16,10 +16,10 @@ function resultReport( marks ) {
         }
         let avg = finalScore / marks.length
         let finalOutput = { finalScore: Math.round(avg) , pass: pass, fail: fail }
-        return typeof finalOutput;
+        return finalOutput;
     }
     return "Invalid"
 }
 
-console.log(resultReport([98, 87, 67, 91, 92, 33, 87]))
+console.log(resultReport([98, 87, 67, 91, 92, 33, 40]))
 
