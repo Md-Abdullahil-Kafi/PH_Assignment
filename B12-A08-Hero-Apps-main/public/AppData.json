@@ -1,0 +1,327 @@
+[
+  {
+    "image": "https://i.ibb.co.com/pr4zvJPG/News-Reader.jpg",
+    "title": "News Reader",
+    "companyName": "InfoStream",
+    "id": 1,
+    "description": "News Reader is a dynamic app that aggregates the latest headlines and in-depth articles from a wide array of trusted sources worldwide, allowing users to customize feeds based on interests like politics, technology, sports, or entertainment. It offers offline reading capabilities, real-time notifications for breaking news, and concise article summaries for quick updates on the go. Additional features include a dark mode for night reading, bookmarking for later review, and easy sharing options across platforms. Keeping you informed and engaged with global events, News Reader is an indispensable tool for staying connected to the world around you.",
+    "size": 35,
+    "reviews": 9500,
+    "ratingAvg": 4.4,
+    "downloads": 400,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Psm1YPLw/Sleep-Sounds.jpg",
+    "title": "Sleep Sounds",
+    "companyName": "CalmVibes",
+    "id": 2,
+    "description": "Sleep Sounds is a tranquil app that offers a rich collection of soothing ambient noises, white noise variations, and nature-inspired sounds to promote better sleep and relaxation. Users can mix and match sounds to create personalized audio landscapes, set timers for automatic shutoff, and design custom playlists for bedtime routines. The app includes guided relaxation sessions, ASMR content for deeper calm, and background play functionality for uninterrupted rest. Tailored for insomniacs, stressed individuals, or anyone seeking peace, Sleep Sounds enhances sleep quality and creates a restful environment naturally.",
+    "size": 50,
+    "reviews": 6800,
+    "ratingAvg": 4.6,
+    "downloads": 250,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WNdJb60s/Habit-Tracker.jpg",
+    "title": "Habit Tracker",
+    "companyName": "GrowthMind",
+    "id": 3,
+    "description": "Habit Tracker is an empowering app designed to help users build positive habits and overcome detrimental ones through consistent daily tracking and insightful feedback. It offers customizable goals with flexible schedules, detailed progress charts to visualize your journey, and a library of pre-set habits for inspiration. The app enhances motivation with journaling features, the option to connect with accountability partners, and calendar integration for seamless planning. Perfect for personal growth enthusiasts, Habit Tracker provides a structured yet adaptable platform to foster long-term behavior change and achieve your aspirations.",
+    "size": 25,
+    "reviews": 4900,
+    "ratingAvg": 4.2,
+    "downloads": 160,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LXvjbWF4/Podcast-Player.jpg",
+    "title": "Podcast Player",
+    "companyName": "AudioWave",
+    "id": 4,
+    "description": "Podcast Player is a versatile app that allows users to discover, subscribe, and enjoy a diverse range of podcasts with unparalleled convenience. It supports offline downloads, adjustable playback speeds, and personalized recommendations based on your listening preferences. The app includes episode transcripts for follow-along reading, sleep timers for nighttime listening, and the ability to create custom playlists or rate your favorite shows. With push notifications for new episodes and seamless synchronization across devices, Podcast Player is an essential tool for commuters, lifelong learners, or anyone seeking entertainment on the go.",
+    "size": 40,
+    "reviews": 8200,
+    "ratingAvg": 4.3,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7xtJP22x/Wellness-Hub.jpg",
+    "title": "Fitness Yoga",
+    "companyName": "Wellness Hub",
+    "id": 5,
+    "description": "Fitness Yoga is a dynamic app that delivers guided yoga routines tailored to suit practitioners from beginners to advanced levels, focusing on enhancing strength, flexibility, and mental clarity. It features an extensive library of video classes, a comprehensive pose guide with proper alignment tips, and personalized plans based on your fitness goals. Additional offerings include breathing exercises, meditation sessions, and community challenges to keep you motivated. With offline access to content and live or pre-recorded sessions led by certified instructors, Fitness Yoga is the perfect companion for integrating yoga into your daily routine, whether at home, in a studio, or while traveling.",
+    "size": 65,
+    "reviews": 7600,
+    "ratingAvg": 4.5,
+    "downloads": 280,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/S4Rsp9Q5/ebookreader.jpg",
+    "title": "E-Book Reader",
+    "companyName": "LitShelf",
+    "id": 6,
+    "description": "E-Book Reader offers a delightful and customizable reading experience designed to cater to the needs of avid book lovers everywhere. It supports a wide range of formats including EPUB, PDF, and MOBI, with adjustable font sizes, multiple themes, and a soothing night mode to reduce eye strain during late-night reading. The app includes bookmarking, highlighting key passages, and an integrated dictionary for instant word lookups, alongside the ability to organize your digital library and sync across devices. With personalized book recommendations and offline access to your collection, E-Book Reader transforms your mobile device into a portable library for endless reading enjoyment.",
+    "size": 30,
+    "reviews": 5400,
+    "ratingAvg": 4.1,
+    "downloads": 180,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1Yd9wpz5/Wanderlust-Apps.jpg",
+    "title": "Travel Planner",
+    "companyName": "Wanderlust Apps",
+    "id": 7,
+    "description": "Travel Planner is a comprehensive travel organization app that assists users in crafting detailed itineraries, exploring destination guides, and managing bookings for flights, hotels, and activities with seamless integration. It provides real-time updates on weather conditions, local events, and travel advisories, along with budget tracking to keep expenses in check. The app supports collaborative planning for group trips, offers offline maps for navigation without internet, and includes customizable packing lists tailored to your destination. Ideal for solo adventurers or travel groups, Travel Planner ensures a well-organized and enjoyable travel experience from start to finish.",
+    "size": 55,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": 350,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KcMZFhpH/Meditation.jpg",
+    "title": "Meditation Guide",
+    "companyName": "Zen Studios",
+    "id": 8,
+    "description": "Meditation Guide is a serene and effective app that offers a wide range of guided audio sessions aimed at promoting mindfulness, reducing stress, and enhancing focus, suitable for users of all experience levels. It features themed meditations such as sleep improvement, anxiety relief, gratitude practice, and deep relaxation, with customizable session durations and a selection of calming background sounds like rain or ocean waves. Users can track their meditation progress, set daily reminders to build a habit, and access expert-led tips to deepen their practice. With its tranquil design and offline accessibility, Meditation Guide serves as an essential tool for integrating mindfulness into your daily life and fostering long-term mental well-being.",
+    "size": 40,
+    "reviews": 6100,
+    "ratingAvg": 4.6,
+    "downloads": 200,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4wB4yQFz/Foodie-Labs.jpg",
+    "title": "Recipe Book",
+    "companyName": "Foodie Labs",
+    "id": 9,
+    "description": "Recipe Book is a comprehensive culinary companion featuring an extensive collection of thousands of recipes, complete with detailed step-by-step instructions, comprehensive ingredient lists, and nutritional breakdowns. Users can search by cuisine type, dietary restrictions, or available ingredients, save their favorite recipes, and generate shopping lists with a single tap. The app enhances cooking with video tutorials, advanced meal planning tools, and a vibrant community section for sharing user-created recipes. Whether you're a novice cook experimenting in the kitchen or a seasoned chef looking to diversify your repertoire, Recipe Book offers an engaging and practical platform to explore new dishes and elevate your culinary skills.",
+    "size": 50,
+    "reviews": 7200,
+    "ratingAvg": 4.3,
+    "downloads": 220,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MD52hp1S/Weather-Forecast.jpg",
+    "title": "Weather Forecast",
+    "companyName": "SkyNet Apps",
+    "id": 10,
+    "description": "Weather Forecast delivers precise, real-time weather updates through a sleek and intuitive interface designed for effortless navigation. It provides detailed hourly, daily, and weekly forecasts, including temperature ranges, precipitation probabilities, wind speeds, and UV index readings. The app enhances planning with interactive radar maps, timely severe weather alerts, and customizable home screen widgets. Featuring location-based tracking and comprehensive global coverage, Weather Forecast ensures you stay prepared for outdoor activities, travel, or daily routines with accurate and up-to-date meteorological information at your fingertips.",
+    "size": 35,
+    "reviews": 10500,
+    "ratingAvg": 4.2,
+    "downloads": 600,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gFgfZpzt/media-magic.jpg",
+    "title": "Video Editor",
+    "companyName": "Media Magic",
+    "id": 11,
+    "description": "Video Editor is a highly intuitive app that empowers users to create professional-quality videos right from their mobile devices with minimal effort. It offers a full-featured timeline for precise editing, a variety of transitions and effects, text overlays, and the ability to integrate music from an extensive built-in library. Additional capabilities include speed adjustments, voiceover recording, green screen effects, and support for 4K video exports. Perfect for vloggers, social media influencers, or hobbyists, the app provides a user-friendly interface, detailed tutorials, and creative tools to simplify video production and bring your vision to life with stunning results.",
+    "size": 90,
+    "reviews": 9200,
+    "ratingAvg": 4.4,
+    "downloads": 400,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLg7cxHW/Organize-Now.jpg",
+    "title": "Task Manager",
+    "companyName": "Organize Now",
+    "id": 12,
+    "description": "Task Manager is a robust productivity app designed to streamline your task organization with an array of powerful features. It allows users to create detailed task lists with subtasks, set priorities, assign due dates, and establish recurring tasks for routine activities. The app includes customizable reminders, real-time collaboration tools for team projects, and the ability to attach files or add notes for context. With visual boards, calendar views, and cross-device synchronization, plus integration with email and external calendars, Task Manager transforms how you manage both personal and professional workflows with efficiency and clarity.",
+    "size": 20,
+    "reviews": 5600,
+    "ratingAvg": 4.0,
+    "downloads": 180,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3y6VzPr0/Edu-Tech-Corp.jpg",
+    "title": "Language Learner",
+    "companyName": "EduTech Corp",
+    "id": 13,
+    "description": "Language Learner is an immersive and interactive app crafted to teach new languages through engaging lessons, fun games, and realistic conversational practice. It covers essential vocabulary, grammar rules, pronunciation exercises, and cultural insights, with adaptive learning paths that adjust to your progress and skill level. The app includes advanced speech recognition for pronunciation practice, daily streaks to maintain motivation, and an offline mode for learning on the go. Supporting a wide range of languages, it’s perfect for travelers seeking to communicate abroad, students pursuing academic goals, or professionals aiming to expand their linguistic capabilities in a dynamic and supportive environment.",
+    "size": 70,
+    "reviews": 7800,
+    "ratingAvg": 4.3,
+    "downloads": 250,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Dfb4dRdM/budget-planner.jpg",
+    "title": "Budget Planner",
+    "companyName": "Finance Guru",
+    "id": 14,
+    "description": "Budget Planner is an intuitive financial management tool designed to help users take control of their finances with confidence and ease. It provides customizable expense and income categories, automated bill reminders, and detailed financial reports with interactive charts to visualize spending patterns over time. The app supports bank account synchronization for real-time updates, debt tracking with repayment plans, and a variety of budgeting templates tailored to different lifestyles and financial goals. With end-to-end encryption for secure data handling and options to export reports, Budget Planner is a must-have for anyone looking to achieve financial stability and make well-informed monetary decisions.",
+    "size": 25,
+    "reviews": 4500,
+    "ratingAvg": 4.1,
+    "downloads": 150,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4sJw9m8x/FitFuel.jpg",
+    "title": "Calorie Counter",
+    "companyName": "FitFuel",
+    "id": 15,
+    "description": "Calorie Counter is an advanced fitness companion designed to help users track daily calorie intake and expenditure effortlessly. It features a massive food database with nutritional details, barcode scanning for instant logging, and personalized calorie goals based on your fitness plan. The app syncs seamlessly with wearable devices to monitor workouts, heart rate, and steps, while offering meal suggestions that align with your dietary preferences. Users can view detailed analytics, set reminders for meal logging, and participate in fitness challenges to stay motivated. Whether you aim for weight loss, muscle gain, or maintenance, Calorie Counter keeps your nutrition in check with precision and ease.",
+    "size": 45,
+    "reviews": 8800,
+    "ratingAvg": 4.5,
+    "downloads": 380,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/X3pZyGfK/SecureVault.jpg",
+    "title": "Password Manager",
+    "companyName": "SecureVault",
+    "id": 16,
+    "description": "Password Manager is a robust security app that helps users store and manage all their passwords in one highly encrypted vault. It automatically generates strong, unique passwords, autofills login forms, and synchronizes data across multiple devices through end-to-end encryption. The app offers biometric authentication, secure notes, and password health analysis to detect weak or reused passwords. With features like offline access and emergency recovery options, Password Manager ensures your credentials remain both accessible and secure. It’s the ultimate solution for anyone who values convenience without compromising on cybersecurity.",
+    "size": 28,
+    "reviews": 9400,
+    "ratingAvg": 4.7,
+    "downloads": 420,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BKqmqjH4/PetCare-Pro.jpg",
+    "title": "Pet Care",
+    "companyName": "PetCare Pro",
+    "id": 17,
+    "description": "Pet Care is a comprehensive pet management app designed for pet owners to easily track their furry friends’ health, nutrition, and daily routines. It allows users to record vet appointments, vaccination schedules, and feeding times, along with setting reminders for walks and medication. The app includes a pet profile section with breed-specific tips, a gallery for photos, and emergency contact options for quick access. With features like weight tracking and health reports, Pet Care simplifies responsible pet ownership and ensures your pet stays happy, healthy, and well-cared for every day.",
+    "size": 38,
+    "reviews": 6300,
+    "ratingAvg": 4.3,
+    "downloads": 210,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FJmczxqH/SmartHome-Tech.jpg",
+    "title": "Smart Home Controller",
+    "companyName": "HomeTech",
+    "id": 18,
+    "description": "Smart Home Controller is an all-in-one automation hub that enables users to control and monitor all smart home devices effortlessly from one place. It supports voice assistants like Alexa and Google Home, integrates with popular IoT brands, and provides real-time energy usage analytics. The app allows scheduling automation routines—like turning on lights at sunset or adjusting thermostats when you leave home. Users can also create shared access for family members and receive instant alerts for security events. With an intuitive interface and robust performance, Smart Home Controller brings efficiency, comfort, and security to your connected lifestyle.",
+    "size": 60,
+    "reviews": 8700,
+    "ratingAvg": 4.6,
+    "downloads": 390,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  }
+]
+
